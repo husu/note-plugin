@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.husu.noteplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.husu.noteplugin.MyBundle
 
 class MyApplicationService {
 
